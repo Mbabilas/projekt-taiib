@@ -29,7 +29,7 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Modele.Remove(model);
-            }
+            }else throw new ArgumentNullException(nameof(modelId));
 
             return removed;
         }

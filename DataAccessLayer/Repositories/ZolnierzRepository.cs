@@ -29,7 +29,7 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Zolnierze.Remove(zolnierz);
-            }
+            }else  throw new ArgumentNullException(nameof(zolnierzId));
 
             return removed;
         }

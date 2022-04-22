@@ -30,6 +30,7 @@ namespace DataAccessLayer
                 removed = true;
                 _database.Zgloszenia.Remove(zgloszenie);
             }
+            else throw new ArgumentNullException(nameof(zgloszenieId));
 
             return removed;
         }

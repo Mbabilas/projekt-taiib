@@ -409,6 +409,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\Services\\DataAccessLayer.csproj": "1.0.0",
           "DataAccessLayer": "1.0.0"
         },
         "compile": {
@@ -1100,19 +1101,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mati\\.nuget\\packages\\": {}
+    "C:\\Users\\Exercitus Romanus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\BusinessLayer\\BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\BusinessLayer\\BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\Exercitus Romanus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Exercitus Romanus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1126,11 +1127,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\Models\\Models.csproj"
+            "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\Models\\Models.csproj"
             },
-            "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\UnitOfWork\\UnitOfWorkUOW.csproj": {
-              "projectPath": "C:\\Users\\Mati\\source\\repos\\projektTAIIB\\UnitOfWork\\UnitOfWorkUOW.csproj"
+            "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\UnitOfWork\\UnitOfWorkUOW.csproj": {
+              "projectPath": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\UnitOfWork\\UnitOfWorkUOW.csproj"
             }
           }
         }
@@ -1165,8 +1166,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Nie można znaleźć projektu „C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\Services\\DataAccessLayer.csproj”. Sprawdź, czy odwołanie projektu jest prawidłowe i czy plik projektu istnieje.",
+      "libraryId": "C:\\Users\\Exercitus Romanus\\Documents\\GitHub\\projekt-taiib\\Services\\DataAccessLayer.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

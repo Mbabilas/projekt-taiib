@@ -13,3 +13,18 @@ C:\Users\Mati\source\repos\projektTAIIB\Models\obj\Debug\net5.0\Models.dll
 C:\Users\Mati\source\repos\projektTAIIB\Models\obj\Debug\net5.0\ref\Models.dll
 C:\Users\Mati\source\repos\projektTAIIB\Models\obj\Debug\net5.0\Models.pdb
 C:\Users\Mati\source\repos\projektTAIIB\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.csprojAssemblyReference.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache

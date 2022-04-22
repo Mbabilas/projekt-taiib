@@ -29,7 +29,8 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Dywizje.Remove(dywizja);
-            }
+            }else throw new ArgumentNullException(nameof(dywizjaId));
+            
 
             return removed;
         }

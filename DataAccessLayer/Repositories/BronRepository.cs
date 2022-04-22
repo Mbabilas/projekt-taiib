@@ -29,7 +29,7 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Bronie.Remove(bron);
-            }
+            }else throw new ArgumentNullException(nameof(bronId));
 
             return removed;
         }

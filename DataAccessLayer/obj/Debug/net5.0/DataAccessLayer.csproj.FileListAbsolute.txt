@@ -28,3 +28,18 @@ C:\Users\Mati\source\repos\projektTAIIB\DataAccessLayer\obj\Debug\net5.0\DataAcc
 C:\Users\Mati\source\repos\projektTAIIB\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
 C:\Users\Mati\source\repos\projektTAIIB\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
 C:\Users\Mati\source\repos\projektTAIIB\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\Models.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\bin\Debug\net5.0\Models.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb

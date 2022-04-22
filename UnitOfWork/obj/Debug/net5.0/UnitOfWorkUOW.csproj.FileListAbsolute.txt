@@ -15,3 +15,6 @@ C:\Users\Mati\source\repos\projektTAIIB\UnitOfWork\obj\Debug\net5.0\UnitOfWorkUO
 C:\Users\Mati\source\repos\projektTAIIB\UnitOfWork\obj\Debug\net5.0\UnitOfWorkUOW.dll
 C:\Users\Mati\source\repos\projektTAIIB\UnitOfWork\obj\Debug\net5.0\ref\UnitOfWorkUOW.dll
 C:\Users\Mati\source\repos\projektTAIIB\UnitOfWork\obj\Debug\net5.0\UnitOfWorkUOW.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\UnitOfWork\obj\Debug\net5.0\UnitOfWorkUOW.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\UnitOfWork\obj\Debug\net5.0\ref\UnitOfWorkUOW.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\UnitOfWork\obj\Debug\net5.0\UnitOfWorkUOW.pdb

@@ -17,3 +17,6 @@ C:\Users\Mati\source\repos\projektTAIIB\BusinessLayer\obj\Debug\net5.0\BusinessL
 C:\Users\Mati\source\repos\projektTAIIB\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\Mati\source\repos\projektTAIIB\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
 C:\Users\Mati\source\repos\projektTAIIB\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

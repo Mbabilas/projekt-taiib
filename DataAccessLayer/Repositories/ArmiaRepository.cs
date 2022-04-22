@@ -29,7 +29,7 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Armie.Remove(armia);
-            }
+            }else throw new ArgumentNullException(nameof(armiaId));
 
             return removed;
         }

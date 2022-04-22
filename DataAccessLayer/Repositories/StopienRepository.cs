@@ -29,7 +29,7 @@ namespace DataAccessLayer
             {
                 removed = true;
                 _database.Stopnie.Remove(stopien);
-            }
+            }else throw new ArgumentNullException(nameof(stopienId));
 
             return removed;
         }

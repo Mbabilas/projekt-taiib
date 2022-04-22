@@ -75,3 +75,6 @@ C:\Users\Mati\source\repos\projektTAIIB\projektTAIIB\bin\Debug\net5.0\BusinessLa
 C:\Users\Mati\source\repos\projektTAIIB\projektTAIIB\bin\Debug\net5.0\UnitOfWorkUOW.pdb
 C:\Users\Mati\source\repos\projektTAIIB\projektTAIIB\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\Mati\source\repos\projektTAIIB\projektTAIIB\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\projektTAIIB\obj\Debug\net5.0\projektTAIIB.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\projektTAIIB\obj\Debug\net5.0\ref\projektTAIIB.dll
+C:\Users\Exercitus Romanus\Documents\GitHub\projekt-taiib\projektTAIIB\obj\Debug\net5.0\projektTAIIB.pdb
